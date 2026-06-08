@@ -56,7 +56,7 @@ The website includes the following features:
 
 ### Shopping Cart
 
-![Shopping Cart](images/cart.png)
+![Shopping Cart](images/cartpage.png)
 
 ---
 
